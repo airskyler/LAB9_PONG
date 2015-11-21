@@ -1,3 +1,7 @@
+
+// I got help from Andre from Learning center  for this code
+// we worked together
+
 package com.Jessy;
 
 import javax.swing.*;
